@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 goa
 hyderabad
+=======
+noun 
+pronoun
+>>>>>>> d3
